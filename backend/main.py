@@ -79,8 +79,8 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="FastAPI Modular Template",
-    description="A best-practice FastAPI template with modular architecture",
+    title="Beach AI Project Assistant",
+    description="Beach-themed AI project management assistant backend",
     version="1.0.0",
     lifespan=lifespan,
 )
@@ -185,9 +185,9 @@ async def general_exception_handler(request: Request, exc: Exception):
         )
 
 
-@app.get("/")
+@app.get("/api")
 def root():
-    return {"message": "FastAPI Modular Template is running"}
+    return {"message": "Beach AI Project Assistant API is running"}
 
 
 @app.get("/health")
