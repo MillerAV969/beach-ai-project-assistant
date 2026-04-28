@@ -27,6 +27,21 @@ export default {
         mono: ['JetBrains Mono', 'ui-monospace'],
       },
       colors: {
+        sand: {
+          50: 'hsl(34 40% 96%)',
+          100: 'hsl(34 40% 92%)',
+          200: 'hsl(34 40% 84%)',
+        },
+        ocean: {
+          50: 'hsl(187 60% 96%)',
+          100: 'hsl(187 60% 92%)',
+          200: 'hsl(187 60% 84%)',
+        },
+        coral: {
+          DEFAULT: 'hsl(16 90% 66%)',
+          50: 'hsl(16 90% 96%)',
+          100: 'hsl(16 90% 88%)',
+        },
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
         ring: 'hsl(var(--ring))',
