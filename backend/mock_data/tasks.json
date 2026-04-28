@@ -1,0 +1,92 @@
+[
+    {
+        "project_id": 1,
+        "title": "Create wireframes for homepage",
+        "description": "Design low-fidelity wireframes for the new homepage layout",
+        "status": "done",
+        "priority": "high",
+        "due_date": "2026-03-15",
+        "assignee": "Sarah Chen"
+    },
+    {
+        "project_id": 1,
+        "title": "Develop responsive navigation",
+        "description": "Build the responsive navigation component with mobile hamburger menu",
+        "status": "in-progress",
+        "priority": "high",
+        "due_date": "2026-04-10",
+        "assignee": "Alex Rivera"
+    },
+    {
+        "project_id": 1,
+        "title": "Design color palette and typography",
+        "description": "Finalize the design system colors and font choices",
+        "status": "done",
+        "priority": "medium",
+        "due_date": "2026-03-20",
+        "assignee": "Sarah Chen"
+    },
+    {
+        "project_id": 1,
+        "title": "Implement hero section animations",
+        "description": "Add scroll-triggered animations to the hero section",
+        "status": "todo",
+        "priority": "medium",
+        "due_date": "2026-04-25",
+        "assignee": "Alex Rivera"
+    },
+    {
+        "project_id": 2,
+        "title": "Set up React Native project",
+        "description": "Initialize the React Native project with proper folder structure",
+        "status": "done",
+        "priority": "high",
+        "due_date": "2026-02-20",
+        "assignee": "Jordan Lee"
+    },
+    {
+        "project_id": 2,
+        "title": "Build authentication flow",
+        "description": "Implement login, signup, and password reset screens",
+        "status": "in-progress",
+        "priority": "high",
+        "due_date": "2026-03-30",
+        "assignee": "Jordan Lee"
+    },
+    {
+        "project_id": 2,
+        "title": "Create dashboard screen",
+        "description": "Build the main dashboard with key metrics and navigation",
+        "status": "todo",
+        "priority": "medium",
+        "due_date": "2026-04-20",
+        "assignee": "Jordan Lee"
+    },
+    {
+        "project_id": 3,
+        "title": "Define target audience segments",
+        "description": "Research and document the key audience segments for Q2 campaign",
+        "status": "done",
+        "priority": "high",
+        "due_date": "2026-04-05",
+        "assignee": "Maya Patel"
+    },
+    {
+        "project_id": 3,
+        "title": "Create social media content calendar",
+        "description": "Plan weekly social media posts across all platforms",
+        "status": "in-progress",
+        "priority": "medium",
+        "due_date": "2026-04-15",
+        "assignee": "Maya Patel"
+    },
+    {
+        "project_id": 6,
+        "title": "Schedule penetration testing",
+        "description": "Coordinate with external security firm for pen testing",
+        "status": "todo",
+        "priority": "high",
+        "due_date": "2026-04-25",
+        "assignee": "Chris Wong"
+    }
+]

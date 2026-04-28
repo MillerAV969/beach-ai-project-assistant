@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Website Redesign",
+        "description": "Complete overhaul of the company website with modern design and improved UX",
+        "status": "active",
+        "priority": "high",
+        "category": "Design",
+        "start_date": "2026-03-01",
+        "end_date": "2026-06-30",
+        "progress": 65
+    },
+    {
+        "name": "Mobile App MVP",
+        "description": "Build the minimum viable product for the iOS and Android mobile application",
+        "status": "active",
+        "priority": "high",
+        "category": "Development",
+        "start_date": "2026-02-15",
+        "end_date": "2026-07-15",
+        "progress": 40
+    },
+    {
+        "name": "Q2 Marketing Campaign",
+        "description": "Plan and execute the Q2 digital marketing campaign across all channels",
+        "status": "active",
+        "priority": "medium",
+        "category": "Marketing",
+        "start_date": "2026-04-01",
+        "end_date": "2026-06-30",
+        "progress": 25
+    },
+    {
+        "name": "Data Pipeline Migration",
+        "description": "Migrate legacy data pipelines to the new cloud infrastructure",
+        "status": "on-hold",
+        "priority": "medium",
+        "category": "Engineering",
+        "start_date": "2026-01-10",
+        "end_date": "2026-05-30",
+        "progress": 55
+    },
+    {
+        "name": "Customer Onboarding Flow",
+        "description": "Design and implement a streamlined onboarding experience for new customers",
+        "status": "completed",
+        "priority": "low",
+        "category": "Product",
+        "start_date": "2025-11-01",
+        "end_date": "2026-02-28",
+        "progress": 100
+    },
+    {
+        "name": "Security Audit",
+        "description": "Comprehensive security audit and vulnerability assessment for all systems",
+        "status": "active",
+        "priority": "high",
+        "category": "Engineering",
+        "start_date": "2026-04-15",
+        "end_date": "2026-05-15",
+        "progress": 10
+    }
+]

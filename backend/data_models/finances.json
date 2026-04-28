@@ -1,0 +1,41 @@
+{
+    "title": "finances",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "project_id": {
+            "type": "integer",
+            "description": "Reference to project id"
+        },
+        "item": {
+            "type": "string",
+            "description": "Financial item name"
+        },
+        "type": {
+            "type": "string",
+            "description": "Type: income, expense"
+        },
+        "amount": {
+            "type": "number",
+            "description": "Amount"
+        },
+        "date": {
+            "type": "string",
+            "description": "Transaction date"
+        },
+        "description": {
+            "type": "string",
+            "description": "Description"
+        }
+    },
+    "required": [
+        "id",
+        "project_id",
+        "item",
+        "type",
+        "amount"
+    ]
+}

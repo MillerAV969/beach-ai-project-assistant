@@ -1,0 +1,46 @@
+{
+    "title": "projects",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "name": {
+            "type": "string",
+            "description": "Project name"
+        },
+        "description": {
+            "type": "string",
+            "description": "Project description"
+        },
+        "status": {
+            "type": "string",
+            "description": "Project status: active, on-hold, completed, archived"
+        },
+        "priority": {
+            "type": "string",
+            "description": "Priority level: high, medium, low"
+        },
+        "category": {
+            "type": "string",
+            "description": "Project category"
+        },
+        "start_date": {
+            "type": "string",
+            "description": "Start date"
+        },
+        "end_date": {
+            "type": "string",
+            "description": "End date"
+        },
+        "progress": {
+            "type": "integer",
+            "description": "Progress percentage 0-100"
+        }
+    },
+    "required": [
+        "id",
+        "name"
+    ]
+}

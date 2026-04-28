@@ -1,0 +1,22 @@
+{
+  "hero-dashboard": {
+    "url": "https://mgx-backend-cdn.metadl.com/generate/images/1158159/2026-04-27/nnf6luiaaflq/hero-dashboard.png",
+    "filename": "hero-dashboard.jpg",
+    "description": "Beach-inspired abstract background for dashboard header"
+  },
+  "empty-projects": {
+    "url": "https://mgx-backend-cdn.metadl.com/generate/images/1158159/2026-04-27/nnf6cuaaafna/empty-projects.png",
+    "filename": "empty-projects.jpg",
+    "description": "Illustration for empty projects state"
+  },
+  "ai-assistant-hero": {
+    "url": "https://mgx-backend-cdn.metadl.com/generate/images/1158159/2026-04-27/nnf6hciaafnq/ai-assistant-hero.png",
+    "filename": "ai-assistant-hero.jpg",
+    "description": "Abstract AI/wave illustration for assistant page"
+  },
+  "logo-icon": {
+    "url": "https://mgx-backend-cdn.metadl.com/generate/images/1158159/2026-04-27/nnf6coiaafma/logo-icon.png",
+    "filename": "logo-icon.png",
+    "description": "App logo icon with wave/beach motif"
+  }
+}

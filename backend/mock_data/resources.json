@@ -1,0 +1,44 @@
+[
+    {
+        "project_id": 1,
+        "title": "Brand Guidelines 2026",
+        "type": "document",
+        "url": "/docs/brand-guidelines.pdf",
+        "description": "Updated brand guidelines including new color palette and typography"
+    },
+    {
+        "project_id": 1,
+        "title": "Figma Design System",
+        "type": "link",
+        "url": "https://figma.com/file/design-system",
+        "description": "Shared Figma workspace with all design components"
+    },
+    {
+        "project_id": 2,
+        "title": "API Documentation",
+        "type": "link",
+        "url": "https://docs.api.example.com",
+        "description": "Backend API reference for mobile app integration"
+    },
+    {
+        "project_id": 2,
+        "title": "User Research Report",
+        "type": "document",
+        "url": "/docs/user-research.pdf",
+        "description": "Findings from user interviews and usability testing"
+    },
+    {
+        "project_id": 3,
+        "title": "Campaign Budget Spreadsheet",
+        "type": "file",
+        "url": "/files/q2-budget.xlsx",
+        "description": "Detailed budget breakdown for Q2 marketing activities"
+    },
+    {
+        "project_id": 6,
+        "title": "Security Checklist",
+        "type": "note",
+        "url": "",
+        "description": "Internal security audit checklist based on OWASP standards"
+    }
+]

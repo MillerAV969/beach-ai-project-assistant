@@ -1,0 +1,39 @@
+{
+    "title": "contacts",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "project_id": {
+            "type": "integer",
+            "description": "Reference to project id"
+        },
+        "name": {
+            "type": "string",
+            "description": "Contact name"
+        },
+        "role": {
+            "type": "string",
+            "description": "Contact role"
+        },
+        "email": {
+            "type": "string",
+            "description": "Contact email"
+        },
+        "phone": {
+            "type": "string",
+            "description": "Contact phone"
+        },
+        "company": {
+            "type": "string",
+            "description": "Company name"
+        }
+    },
+    "required": [
+        "id",
+        "project_id",
+        "name"
+    ]
+}

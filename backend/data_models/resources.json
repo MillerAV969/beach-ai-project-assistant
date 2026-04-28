@@ -1,0 +1,36 @@
+{
+    "title": "resources",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "project_id": {
+            "type": "integer",
+            "description": "Reference to project id"
+        },
+        "title": {
+            "type": "string",
+            "description": "Resource title"
+        },
+        "type": {
+            "type": "string",
+            "description": "Resource type: document, link, file, note"
+        },
+        "url": {
+            "type": "string",
+            "description": "Resource URL or path"
+        },
+        "description": {
+            "type": "string",
+            "description": "Resource description"
+        }
+    },
+    "required": [
+        "id",
+        "project_id",
+        "title",
+        "type"
+    ]
+}

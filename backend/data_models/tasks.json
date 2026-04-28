@@ -1,0 +1,43 @@
+{
+    "title": "tasks",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "project_id": {
+            "type": "integer",
+            "description": "Reference to project id"
+        },
+        "title": {
+            "type": "string",
+            "description": "Task title"
+        },
+        "description": {
+            "type": "string",
+            "description": "Task description"
+        },
+        "status": {
+            "type": "string",
+            "description": "Task status: todo, in-progress, done"
+        },
+        "priority": {
+            "type": "string",
+            "description": "Priority: high, medium, low"
+        },
+        "due_date": {
+            "type": "string",
+            "description": "Due date"
+        },
+        "assignee": {
+            "type": "string",
+            "description": "Assignee name"
+        }
+    },
+    "required": [
+        "id",
+        "project_id",
+        "title"
+    ]
+}

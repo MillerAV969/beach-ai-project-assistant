@@ -1,0 +1,50 @@
+[
+    {
+        "project_id": 1,
+        "name": "Sarah Chen",
+        "role": "Lead Designer",
+        "email": "sarah.chen@example.com",
+        "phone": "+1-555-0101",
+        "company": "DesignCo"
+    },
+    {
+        "project_id": 1,
+        "name": "Alex Rivera",
+        "role": "Frontend Developer",
+        "email": "alex.rivera@example.com",
+        "phone": "+1-555-0102",
+        "company": "DevStudio"
+    },
+    {
+        "project_id": 2,
+        "name": "Jordan Lee",
+        "role": "Mobile Developer",
+        "email": "jordan.lee@example.com",
+        "phone": "+1-555-0103",
+        "company": "AppWorks"
+    },
+    {
+        "project_id": 2,
+        "name": "Priya Sharma",
+        "role": "Backend Engineer",
+        "email": "priya.sharma@example.com",
+        "phone": "+1-555-0104",
+        "company": "CloudBase"
+    },
+    {
+        "project_id": 3,
+        "name": "Maya Patel",
+        "role": "Marketing Manager",
+        "email": "maya.patel@example.com",
+        "phone": "+1-555-0105",
+        "company": "GrowthLab"
+    },
+    {
+        "project_id": 6,
+        "name": "Chris Wong",
+        "role": "Security Engineer",
+        "email": "chris.wong@example.com",
+        "phone": "+1-555-0106",
+        "company": "SecureNet"
+    }
+]

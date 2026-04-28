@@ -1,0 +1,82 @@
+[
+    {
+        "project_id": 1,
+        "item": "Design Agency Retainer",
+        "type": "expense",
+        "amount": 15000,
+        "date": "2026-03-01",
+        "description": "Monthly retainer for design agency services"
+    },
+    {
+        "project_id": 1,
+        "item": "Stock Photography License",
+        "type": "expense",
+        "amount": 2500,
+        "date": "2026-03-15",
+        "description": "Annual stock photography subscription"
+    },
+    {
+        "project_id": 2,
+        "item": "App Store Developer Fee",
+        "type": "expense",
+        "amount": 299,
+        "date": "2026-02-15",
+        "description": "Apple Developer Program annual fee"
+    },
+    {
+        "project_id": 2,
+        "item": "Cloud Infrastructure",
+        "type": "expense",
+        "amount": 4200,
+        "date": "2026-03-01",
+        "description": "Monthly cloud hosting and services"
+    },
+    {
+        "project_id": 3,
+        "item": "Social Media Ads Budget",
+        "type": "expense",
+        "amount": 8000,
+        "date": "2026-04-01",
+        "description": "Q2 social media advertising budget"
+    },
+    {
+        "project_id": 3,
+        "item": "Content Creation",
+        "type": "expense",
+        "amount": 3500,
+        "date": "2026-04-10",
+        "description": "Freelance content creators for campaign"
+    },
+    {
+        "project_id": 6,
+        "item": "Penetration Testing Service",
+        "type": "expense",
+        "amount": 12000,
+        "date": "2026-04-20",
+        "description": "External security firm penetration testing"
+    },
+    {
+        "project_id": 1,
+        "item": "Client Payment - Phase 1",
+        "type": "income",
+        "amount": 25000,
+        "date": "2026-03-20",
+        "description": "Phase 1 milestone payment received"
+    },
+    {
+        "project_id": 2,
+        "item": "Investor Funding - Round 2",
+        "type": "income",
+        "amount": 50000,
+        "date": "2026-02-28",
+        "description": "Second round seed funding received"
+    },
+    {
+        "project_id": 3,
+        "item": "Sponsorship Revenue",
+        "type": "income",
+        "amount": 10000,
+        "date": "2026-04-05",
+        "description": "Co-branded campaign sponsorship"
+    }
+]

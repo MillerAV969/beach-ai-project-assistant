@@ -1,0 +1,27 @@
+{
+    "title": "chat_messages",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Primary key, auto-increment"
+        },
+        "role": {
+            "type": "string",
+            "description": "Message role: user, assistant"
+        },
+        "content": {
+            "type": "string",
+            "description": "Message content"
+        },
+        "project_id": {
+            "type": "integer",
+            "description": "Optional reference to project id"
+        }
+    },
+    "required": [
+        "id",
+        "role",
+        "content"
+    ]
+}
